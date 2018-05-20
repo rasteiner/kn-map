@@ -3,7 +3,7 @@ A google maps plugin for k next
 
 Enables you to set up coordinates, zoom level and markers on a google map. 
 
-[![Link to youtube](preview.gif)](https://www.youtube.com/watch?v=https://youtu.be/a_IKjDoQGy8)
+[![Link to youtube](preview.gif)](https://www.youtube.com/watch?v=a_IKjDoQGy8)
 
 # Install 
 Download and copy folder to /site/plugins/map
