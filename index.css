@@ -1,0 +1,26 @@
+.rasteiner-k3-map-field div.small {
+  height: 18rem;
+}
+
+.rasteiner-k3-map-field div.medium {
+  height: 25rem;
+}
+
+.rasteiner-k3-map-field div.large {
+  height: 35rem;
+}
+
+/*
+.rasteiner-k3-map-field ul.markers {
+  margin-top: 0;
+}
+
+.rasteiner-k3-map-field ul.markers li {
+  display: flex;
+  background-color: white;
+  border: 1px solid #eee;
+  padding: 0.3em 0.4em;
+  margin-bottom: 0.2em;
+  justify-content: space-between;
+}
+*/
