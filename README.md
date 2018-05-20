@@ -8,6 +8,17 @@ Enables you to set up coordinates, zoom level and markers on a google map.
 # Install 
 Download and copy folder to /site/plugins/map
 
+You need a google API browser key with access to the Maps Javascript API and the Geolocation service. 
+Then you need to set that in your **config.php** file, like this:
+```php
+<?php
+
+return [
+    //...
+    'rasteiner/kn-map/apikey' => 'YOUR API KEY HERE',
+    //...
+];
+```
 
 # Example Blueprint
 
