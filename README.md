@@ -1,6 +1,6 @@
 ----
 
-This was an experiment. Thi project will be replaced by the [Map Section](https://github.com/rasteiner/kn-map-section) plugin
+This was an experiment. This project will be replaced by the [Map Section](https://github.com/rasteiner/kn-map-section) plugin
 
 ----
 
