@@ -1,3 +1,10 @@
+----
+
+This was an experiment. Thi project will be replaced by the [Map Section](https://github.com/rasteiner/kn-map-section) plugin
+
+----
+
+
 # kn-map
 A google maps plugin for k next
 
